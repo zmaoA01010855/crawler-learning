@@ -14,11 +14,11 @@ Personal learning path of web crawler based on Guang Chen's [GitHub] of Python P
   ```
 
 ## Some useful tools you might need
-  - [RegExr] - online regular expression builder.
-  - [XPath Cheatsheet] - XPath syntax info.
-  - [XPath helper] - Chrome extensions for locating the xpath of certain element.
-  - [You-Get] - media contents downloader.
-  - [Curl to Python] - converting curl command to python codes for header infomation.
+  - [RegExr] - an online regular expression builder.
+  - [XPath Cheatsheet] - XPath syntax infomation sheet.
+  - [XPath helper] - a Chrome extension for locating the xpath of certain element.
+  - [You-Get] - media content downloader.
+  - [Curl to Python] - converting curl command to python codes and gaining request header infomation from client's browser.
 
 
 ## Learning Contents
