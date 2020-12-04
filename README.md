@@ -42,7 +42,6 @@ Personal learning path of web crawler.
 
 
 ## License
-----
 MIT
 
 ## Reference
