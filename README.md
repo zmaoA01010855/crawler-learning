@@ -33,9 +33,7 @@ Personal learning path of web crawler based on Guang Chen's [GitHub] of Python P
   - Finding if the agent infomation in request header needs to be changed.
 
 ### Exercise 2: Retrieving book list info from Douban Reading Page with XPath:
-  - Creating another DoubanCrawler class extending MyCrawler class.
   - Finding the book infomation pattern on HTML page using XPath.
-  --
   - Coverting response string to HTML Tree
   - Implementing the logic of extraction.
   - Finding if the agent infomation in request header needs to be changed.
