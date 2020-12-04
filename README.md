@@ -1,5 +1,5 @@
 # Crawler-learning
-Personal learning path of web crawler.
+Personal learning path of web crawler based on Guang Chen's [GitHub] of Python Programming courses.
 
 ## Prerequisite
   - [Python 3]
