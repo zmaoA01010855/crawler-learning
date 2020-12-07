@@ -6,14 +6,13 @@ import time
 import random
 
 page_id = 1
-
+db_crawler = DoubanCrawler("douban.txt")
 
 while 1:
     start_id = 20 * (page_id - 1)
     url = "https://book.douban.com/tag/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD?start={}&type=T".format(
         (page_id - 1) * 20)
 
-    db_crawler = DoubanCrawler("douban.txt")
     content = db_crawler.download(url)
 
     print(len(content))
