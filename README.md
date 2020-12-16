@@ -40,6 +40,9 @@ Personal learning path of web crawler based on Guang Chen's [GitHub] of Python P
   - Implementing the logic of extraction.
   - Finding if the agent infomation in request header needs to be changed.
 
+### Exercise 3: Architecture, multithreading and Queue of spider/cralwer downloader:
+  - Using ThreadPoolExecutor from concurrent.futures lib and Semaphore to implement atomic functions in Python.
+  ![N|Spider](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/WebCrawlerArchitecture.svg/1920px-WebCrawlerArchitecture.svg.png)
 
 ## License
 MIT
